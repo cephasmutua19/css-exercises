@@ -1,0 +1,22 @@
+.odd{
+    font-family: Verdana," Dejavu Sans", sans-serif;
+    background-color: rgb(250, 158, 158);
+}
+#num2{
+    font-size: 36px;
+    color: rgb(0, 0, 200);
+}
+/* .odd:nth-of-type(2){
+    font-size: 24px;
+} */
+.odd.num3{
+    font-size: 24px;
+}
+#num4{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #88ff94;
+}
+#num2, #num4{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
